@@ -4,6 +4,24 @@
   💻Desenvolder Full Stack e Apaixonado por tecnologia
 </p><br><br>
 
+## 🌐 Projetos privados
+
+### Aumigos Pet
+- Este foi meu TCC para o curso de TI na UNESP
+- 🔗 [Acesse o site](https://aumigos-pet.vercel.app/pages/landing-page)
+
+### Fabrikey
+- Site desenvolvido para a empresa Fabrikey usando bubble
+- 🔗 [Acesse o site](https://fabrikey.com.br/)
+
+### DB Cleaning 
+- Contribui para a integração de algumas features no site da DB Cleaning, companhia dos Estados Unidos
+- 🔗 [Acesse o site](https://www.mydbcleaning.com/)
+
+### Jetup Travel
+- Contribui para a integração de novas features e correção de erros existentes no sistema, além de integrar um fluxo de pagamentos usando stripe/mercado pago
+- 🔗 [Acesse o site](https://jetup.travel/)
+
 ## 🚀 Linguagens de Programação
 [![My Skills](https://skillicons.dev/icons?i=typescript,javascript,cpp,python)](https://skillicons.dev)<br><br>
 
