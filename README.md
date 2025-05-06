@@ -8,6 +8,7 @@
 
 ### Aumigos Pet
 - Este foi meu TCC para o curso de TI na UNESP
+- Stacks: Vite, Javascript, Node.js
 - 🔗 [Acesse o site](https://aumigos-pet.vercel.app/pages/landing-page)
 
 ### Fabrikey
@@ -16,10 +17,12 @@
 
 ### DB Cleaning 
 - Contribui para a integração de algumas features no site da DB Cleaning, companhia dos Estados Unidos
+- Stacks: HTML, CSS, Javascript
 - 🔗 [Acesse o site](https://www.mydbcleaning.com/)
 
 ### Jetup Travel
 - Contribui para a integração de novas features e correção de erros existentes no sistema, além de integrar um fluxo de pagamentos usando stripe/mercado pago
+- Stacks: React, Prisma, Next.js, Typescript
 - 🔗 [Acesse o site](https://jetup.travel/)
 
 ## 🚀 Linguagens de Programação
