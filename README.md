@@ -2,7 +2,7 @@
 
 <p>
   💻Desenvolder Full Stack e Apaixonado por tecnologia
-</p><br><br>
+</p><br>
 
 ## 🌐 Projetos privados
 
