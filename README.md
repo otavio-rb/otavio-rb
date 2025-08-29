@@ -1,7 +1,7 @@
 <h1>👋 Olá</h1>
 
 <p>
-  💻Desenvolder Full Stack e Apaixonado por tecnologia
+  Desenvolvedor Full Stack
 </p><br>
 
 ## 🌐 Projetos privados
