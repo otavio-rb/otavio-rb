@@ -1,4 +1,4 @@
-<h1>👋 Olá, eu sou o Otávio</h1>
+<h1>👋 Olá</h1>
 
 <p>
   💻Desenvolder Full Stack e Apaixonado por tecnologia
