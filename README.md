@@ -29,7 +29,6 @@ Nas horas vagas, tenho como hobby o estudo de computação gráfica na web, dese
 |---|---|
 | Plataforma Ouse Passar (Full Stack) | Definição de arquitetura inicial, desenvolvimento de APIs em .NET e interfaces reativas em React desde os primeiros estágios do produto |
 | IA aplicada e busca semântica (Ouse Passar) | Implementação de pipeline RAG com PostgreSQL e pgvector, além de orquestração de agentes de IA para suporte operacional e ferramentas internas |
-| Automação e DevOps (Ouse Passar) | Estruturação de pipelines de CI/CD para automação de deploy e padronização do ambiente em containers Docker |
 | Combate à desinformação (Agência Lupa) | Implementação completa da interface inicial da plataforma, com foco em responsividade, acessibilidade e carregamento veloz |
 | Automação de orçamentos (DB Cleaning Services) | Desenvolvimento de motor de precificação automatizado para geração rápida de propostas para clientes nos EUA |
 | Voxel Engine no navegador (Projeto pessoal) | Renderização em 60+ FPS estáveis descarregando Greedy Meshing, ruído volumétrico e loop físico para Web Workers dedicados |
