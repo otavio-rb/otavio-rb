@@ -63,7 +63,7 @@ Como hobby, estudo computação gráfica na web: desenvolvimento de engines e re
 **[world-model-arm](https://github.com/otavio-rb/world-model-arm)**
 Estudo comparativo entre SAC e DreamerV3 (world models) no controle de braços robóticos, com foco em eficiência amostral. Projeto de pesquisa e TCC em andamento.
 
-**[voxel-engine.js](https://github.com/otavio-rb/voxel-engine.js)** · [demo online](https://voxel-engine-js.vercel.app/)
+**[voxel-engine.js](https://github.com/otavio-rb/voxel-engine)** · [demo online](https://voxel-engine-js.vercel.app/)
 Motor voxel 3D para navegador, desenvolvido em TypeScript e Three.js. Inclui Greedy Meshing (redução de mais de 80% da geometria em tela), iluminação volumétrica própria (estilo flood fill) com oclusão de ambiente e geração procedural contínua em Web Workers.
 
 **[dumb-interpreter](https://github.com/otavio-rb/dumb-interpreter)**
