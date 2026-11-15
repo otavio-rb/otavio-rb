@@ -8,6 +8,7 @@
 
 Jaboticabal, SP · remoto ou híbrido
 
+[![Portfólio](portfolio.svg)](https://otavio-santos.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ot%C3%A1vio-santos-3b577b252/)
 [![E-mail](https://img.shields.io/badge/E--mail-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:or424949@gmail.com)
 
